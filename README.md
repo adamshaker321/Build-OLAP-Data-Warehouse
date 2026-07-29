@@ -1,5 +1,11 @@
 # End-to-End Data Warehouse & ETL Pipeline using SQL Server & SSIS
 
+
+<img width="952" height="472" alt="PROJECT ARCHITECTURE drawio" src="https://github.com/user-attachments/assets/29a13be5-d867-481e-901d-54b6b0c1e256" />
+
+
+
+
 ## Overview
 
 This project demonstrates the implementation of a production-style Data Warehouse using SQL Server and SSIS. It follows the Bronze → Silver → Gold (Medallion) architecture to extract, transform, and load CRM and ERP data into an analytics-ready Star Schema.
