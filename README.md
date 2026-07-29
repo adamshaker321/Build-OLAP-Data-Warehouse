@@ -1,7 +1,7 @@
 # End-to-End Data Warehouse & ETL Pipeline using SQL Server & SSIS
 
 
-<img width="952" height="472" alt="PROJECT ARCHITECTURE drawio" src="https://github.com/user-attachments/assets/29a13be5-d867-481e-901d-54b6b0c1e256" />
+<img width="1122" height="532" alt="PROJECT ARCHITECTURE drawio" src="https://github.com/user-attachments/assets/94f11a41-314a-409f-b7fc-9cf3ac9f8861" />
 
 
 
